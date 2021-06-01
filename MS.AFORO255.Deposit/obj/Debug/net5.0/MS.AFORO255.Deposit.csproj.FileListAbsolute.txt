@@ -1,0 +1,76 @@
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Deposit\bin\Debug\net5.0\appsettings.Development.json
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Deposit\bin\Debug\net5.0\appsettings.json
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Deposit\bin\Debug\net5.0\MS.AFORO255.Deposit.exe
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Deposit\bin\Debug\net5.0\MS.AFORO255.Deposit.deps.json
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Deposit\bin\Debug\net5.0\MS.AFORO255.Deposit.runtimeconfig.json
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Deposit\bin\Debug\net5.0\MS.AFORO255.Deposit.runtimeconfig.dev.json
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Deposit\bin\Debug\net5.0\MS.AFORO255.Deposit.dll
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Deposit\bin\Debug\net5.0\ref\MS.AFORO255.Deposit.dll
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Deposit\bin\Debug\net5.0\MS.AFORO255.Deposit.pdb
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Deposit\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Deposit\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Deposit\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Deposit\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Deposit\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Deposit\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Deposit\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Deposit\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Deposit\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Deposit\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Deposit\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Deposit\bin\Debug\net5.0\Npgsql.dll
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Deposit\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Deposit\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Deposit\obj\Debug\net5.0\MS.AFORO255.Deposit.GeneratedMSBuildEditorConfig.editorconfig
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Deposit\obj\Debug\net5.0\MS.AFORO255.Deposit.AssemblyInfoInputs.cache
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Deposit\obj\Debug\net5.0\MS.AFORO255.Deposit.AssemblyInfo.cs
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Deposit\obj\Debug\net5.0\MS.AFORO255.Deposit.csproj.CoreCompileInputs.cache
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Deposit\obj\Debug\net5.0\MS.AFORO255.Deposit.MvcApplicationPartsAssemblyInfo.cache
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Deposit\obj\Debug\net5.0\staticwebassets\MS.AFORO255.Deposit.StaticWebAssets.Manifest.cache
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Deposit\obj\Debug\net5.0\staticwebassets\MS.AFORO255.Deposit.StaticWebAssets.xml
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Deposit\obj\Debug\net5.0\scopedcss\bundle\MS.AFORO255.Deposit.styles.css
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Deposit\obj\Debug\net5.0\MS.AFORO255.Deposit.RazorTargetAssemblyInfo.cache
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Deposit\obj\Debug\net5.0\MS.AFORO255.Deposit.csproj.CopyComplete
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Deposit\obj\Debug\net5.0\MS.AFORO255.Deposit.dll
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Deposit\obj\Debug\net5.0\ref\MS.AFORO255.Deposit.dll
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Deposit\obj\Debug\net5.0\MS.AFORO255.Deposit.pdb
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Deposit\obj\Debug\net5.0\MS.AFORO255.Deposit.genruntimeconfig.cache
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Deposit\obj\Debug\net5.0\MS.AFORO255.Deposit.csprojAssemblyReference.cache
+D:\Cursos\Aforo\MS.AFORO255\MS.AFORO255.Deposit\bin\Debug\net5.0\appsettings.Development.json
+D:\Cursos\Aforo\MS.AFORO255\MS.AFORO255.Deposit\bin\Debug\net5.0\appsettings.json
+D:\Cursos\Aforo\MS.AFORO255\MS.AFORO255.Deposit\bin\Debug\net5.0\MS.AFORO255.Deposit.exe
+D:\Cursos\Aforo\MS.AFORO255\MS.AFORO255.Deposit\bin\Debug\net5.0\MS.AFORO255.Deposit.deps.json
+D:\Cursos\Aforo\MS.AFORO255\MS.AFORO255.Deposit\bin\Debug\net5.0\MS.AFORO255.Deposit.runtimeconfig.json
+D:\Cursos\Aforo\MS.AFORO255\MS.AFORO255.Deposit\bin\Debug\net5.0\MS.AFORO255.Deposit.runtimeconfig.dev.json
+D:\Cursos\Aforo\MS.AFORO255\MS.AFORO255.Deposit\bin\Debug\net5.0\MS.AFORO255.Deposit.dll
+D:\Cursos\Aforo\MS.AFORO255\MS.AFORO255.Deposit\bin\Debug\net5.0\ref\MS.AFORO255.Deposit.dll
+D:\Cursos\Aforo\MS.AFORO255\MS.AFORO255.Deposit\bin\Debug\net5.0\MS.AFORO255.Deposit.pdb
+D:\Cursos\Aforo\MS.AFORO255\MS.AFORO255.Deposit\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Cursos\Aforo\MS.AFORO255\MS.AFORO255.Deposit\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\Cursos\Aforo\MS.AFORO255\MS.AFORO255.Deposit\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Cursos\Aforo\MS.AFORO255\MS.AFORO255.Deposit\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Cursos\Aforo\MS.AFORO255\MS.AFORO255.Deposit\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Cursos\Aforo\MS.AFORO255\MS.AFORO255.Deposit\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Cursos\Aforo\MS.AFORO255\MS.AFORO255.Deposit\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Cursos\Aforo\MS.AFORO255\MS.AFORO255.Deposit\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Cursos\Aforo\MS.AFORO255\MS.AFORO255.Deposit\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Cursos\Aforo\MS.AFORO255\MS.AFORO255.Deposit\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Cursos\Aforo\MS.AFORO255\MS.AFORO255.Deposit\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Cursos\Aforo\MS.AFORO255\MS.AFORO255.Deposit\bin\Debug\net5.0\Npgsql.dll
+D:\Cursos\Aforo\MS.AFORO255\MS.AFORO255.Deposit\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Cursos\Aforo\MS.AFORO255\MS.AFORO255.Deposit\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Cursos\Aforo\MS.AFORO255\MS.AFORO255.Deposit\obj\Debug\net5.0\MS.AFORO255.Deposit.csprojAssemblyReference.cache
+D:\Cursos\Aforo\MS.AFORO255\MS.AFORO255.Deposit\obj\Debug\net5.0\MS.AFORO255.Deposit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Aforo\MS.AFORO255\MS.AFORO255.Deposit\obj\Debug\net5.0\MS.AFORO255.Deposit.AssemblyInfoInputs.cache
+D:\Cursos\Aforo\MS.AFORO255\MS.AFORO255.Deposit\obj\Debug\net5.0\MS.AFORO255.Deposit.AssemblyInfo.cs
+D:\Cursos\Aforo\MS.AFORO255\MS.AFORO255.Deposit\obj\Debug\net5.0\MS.AFORO255.Deposit.csproj.CoreCompileInputs.cache
+D:\Cursos\Aforo\MS.AFORO255\MS.AFORO255.Deposit\obj\Debug\net5.0\MS.AFORO255.Deposit.MvcApplicationPartsAssemblyInfo.cache
+D:\Cursos\Aforo\MS.AFORO255\MS.AFORO255.Deposit\obj\Debug\net5.0\staticwebassets\MS.AFORO255.Deposit.StaticWebAssets.Manifest.cache
+D:\Cursos\Aforo\MS.AFORO255\MS.AFORO255.Deposit\obj\Debug\net5.0\staticwebassets\MS.AFORO255.Deposit.StaticWebAssets.xml
+D:\Cursos\Aforo\MS.AFORO255\MS.AFORO255.Deposit\obj\Debug\net5.0\scopedcss\bundle\MS.AFORO255.Deposit.styles.css
+D:\Cursos\Aforo\MS.AFORO255\MS.AFORO255.Deposit\obj\Debug\net5.0\MS.AFORO255.Deposit.RazorTargetAssemblyInfo.cache
+D:\Cursos\Aforo\MS.AFORO255\MS.AFORO255.Deposit\obj\Debug\net5.0\MS.AFORO255.Deposit.csproj.CopyComplete
+D:\Cursos\Aforo\MS.AFORO255\MS.AFORO255.Deposit\obj\Debug\net5.0\MS.AFORO255.Deposit.dll
+D:\Cursos\Aforo\MS.AFORO255\MS.AFORO255.Deposit\obj\Debug\net5.0\ref\MS.AFORO255.Deposit.dll
+D:\Cursos\Aforo\MS.AFORO255\MS.AFORO255.Deposit\obj\Debug\net5.0\MS.AFORO255.Deposit.pdb
+D:\Cursos\Aforo\MS.AFORO255\MS.AFORO255.Deposit\obj\Debug\net5.0\MS.AFORO255.Deposit.genruntimeconfig.cache
