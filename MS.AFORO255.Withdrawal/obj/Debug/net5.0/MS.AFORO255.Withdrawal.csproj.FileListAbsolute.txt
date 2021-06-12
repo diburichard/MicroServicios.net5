@@ -35,6 +35,89 @@ D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Withdrawal\
 D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Withdrawal\obj\Debug\net5.0\ref\MS.AFORO255.Withdrawal.dll
 D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Withdrawal\obj\Debug\net5.0\MS.AFORO255.Withdrawal.pdb
 D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Withdrawal\obj\Debug\net5.0\MS.AFORO255.Withdrawal.genruntimeconfig.cache
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Withdrawal\bin\Debug\net5.0\appsettings.Development.json
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Withdrawal\bin\Debug\net5.0\appsettings.json
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Withdrawal\bin\Debug\net5.0\MS.AFORO255.Withdrawal.exe
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Withdrawal\bin\Debug\net5.0\MS.AFORO255.Withdrawal.deps.json
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Withdrawal\bin\Debug\net5.0\MS.AFORO255.Withdrawal.runtimeconfig.json
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Withdrawal\bin\Debug\net5.0\MS.AFORO255.Withdrawal.runtimeconfig.dev.json
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Withdrawal\bin\Debug\net5.0\MS.AFORO255.Withdrawal.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Withdrawal\bin\Debug\net5.0\ref\MS.AFORO255.Withdrawal.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Withdrawal\bin\Debug\net5.0\MS.AFORO255.Withdrawal.pdb
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Withdrawal\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Withdrawal\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Withdrawal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Withdrawal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Withdrawal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Withdrawal\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Withdrawal\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Withdrawal\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Withdrawal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Withdrawal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Withdrawal\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Withdrawal\bin\Debug\net5.0\Npgsql.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Withdrawal\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Withdrawal\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Withdrawal\obj\Debug\net5.0\MS.AFORO255.Withdrawal.csprojAssemblyReference.cache
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Withdrawal\obj\Debug\net5.0\MS.AFORO255.Withdrawal.GeneratedMSBuildEditorConfig.editorconfig
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Withdrawal\obj\Debug\net5.0\MS.AFORO255.Withdrawal.AssemblyInfoInputs.cache
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Withdrawal\obj\Debug\net5.0\MS.AFORO255.Withdrawal.AssemblyInfo.cs
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Withdrawal\obj\Debug\net5.0\MS.AFORO255.Withdrawal.csproj.CoreCompileInputs.cache
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Withdrawal\obj\Debug\net5.0\MS.AFORO255.Withdrawal.MvcApplicationPartsAssemblyInfo.cache
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Withdrawal\obj\Debug\net5.0\staticwebassets\MS.AFORO255.Withdrawal.StaticWebAssets.Manifest.cache
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Withdrawal\obj\Debug\net5.0\staticwebassets\MS.AFORO255.Withdrawal.StaticWebAssets.xml
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Withdrawal\obj\Debug\net5.0\scopedcss\bundle\MS.AFORO255.Withdrawal.styles.css
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Withdrawal\obj\Debug\net5.0\MS.AFORO255.Withdrawal.RazorTargetAssemblyInfo.cache
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Withdrawal\obj\Debug\net5.0\MS.AFORO255.Withdrawal.csproj.CopyComplete
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Withdrawal\obj\Debug\net5.0\MS.AFORO255.Withdrawal.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Withdrawal\obj\Debug\net5.0\ref\MS.AFORO255.Withdrawal.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Withdrawal\obj\Debug\net5.0\MS.AFORO255.Withdrawal.pdb
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Withdrawal\obj\Debug\net5.0\MS.AFORO255.Withdrawal.genruntimeconfig.cache
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Withdrawal\bin\Debug\net5.0\appsettings.Development.json
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Withdrawal\bin\Debug\net5.0\appsettings.json
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Withdrawal\bin\Debug\net5.0\MS.AFORO255.Withdrawal.exe
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Withdrawal\bin\Debug\net5.0\MS.AFORO255.Withdrawal.deps.json
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Withdrawal\bin\Debug\net5.0\MS.AFORO255.Withdrawal.runtimeconfig.json
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Withdrawal\bin\Debug\net5.0\MS.AFORO255.Withdrawal.runtimeconfig.dev.json
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Withdrawal\bin\Debug\net5.0\MS.AFORO255.Withdrawal.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Withdrawal\bin\Debug\net5.0\ref\MS.AFORO255.Withdrawal.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Withdrawal\bin\Debug\net5.0\MS.AFORO255.Withdrawal.pdb
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Withdrawal\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Withdrawal\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Withdrawal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Withdrawal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Withdrawal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Withdrawal\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Withdrawal\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Withdrawal\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Withdrawal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Withdrawal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Withdrawal\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Withdrawal\bin\Debug\net5.0\Npgsql.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Withdrawal\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Withdrawal\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Withdrawal\obj\Debug\net5.0\MS.AFORO255.Withdrawal.csprojAssemblyReference.cache
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Withdrawal\obj\Debug\net5.0\MS.AFORO255.Withdrawal.GeneratedMSBuildEditorConfig.editorconfig
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Withdrawal\obj\Debug\net5.0\MS.AFORO255.Withdrawal.AssemblyInfoInputs.cache
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Withdrawal\obj\Debug\net5.0\MS.AFORO255.Withdrawal.AssemblyInfo.cs
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Withdrawal\obj\Debug\net5.0\MS.AFORO255.Withdrawal.csproj.CoreCompileInputs.cache
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Withdrawal\obj\Debug\net5.0\MS.AFORO255.Withdrawal.MvcApplicationPartsAssemblyInfo.cache
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Withdrawal\obj\Debug\net5.0\staticwebassets\MS.AFORO255.Withdrawal.StaticWebAssets.Manifest.cache
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Withdrawal\obj\Debug\net5.0\staticwebassets\MS.AFORO255.Withdrawal.StaticWebAssets.xml
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Withdrawal\obj\Debug\net5.0\scopedcss\bundle\MS.AFORO255.Withdrawal.styles.css
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Withdrawal\obj\Debug\net5.0\MS.AFORO255.Withdrawal.RazorTargetAssemblyInfo.cache
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Withdrawal\obj\Debug\net5.0\MS.AFORO255.Withdrawal.csproj.CopyComplete
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Withdrawal\obj\Debug\net5.0\MS.AFORO255.Withdrawal.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Withdrawal\obj\Debug\net5.0\ref\MS.AFORO255.Withdrawal.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Withdrawal\obj\Debug\net5.0\MS.AFORO255.Withdrawal.pdb
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Withdrawal\obj\Debug\net5.0\MS.AFORO255.Withdrawal.genruntimeconfig.cache
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Withdrawal\bin\Debug\net5.0\Aforo255.Cross.Event.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Withdrawal\bin\Debug\net5.0\MediatR.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Withdrawal\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Withdrawal\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Withdrawal\bin\Debug\net5.0\RabbitMQ.Client.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Withdrawal\bin\Debug\net5.0\Aforo255.Cross.Http.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Withdrawal\bin\Debug\net5.0\Polly.dll
 D:\Cursos\Aforo\MS.AFORO255\MS.AFORO255.Withdrawal\bin\Debug\net5.0\appsettings.Development.json
 D:\Cursos\Aforo\MS.AFORO255\MS.AFORO255.Withdrawal\bin\Debug\net5.0\appsettings.json
 D:\Cursos\Aforo\MS.AFORO255\MS.AFORO255.Withdrawal\bin\Debug\net5.0\MS.AFORO255.Withdrawal.exe
@@ -44,6 +127,10 @@ D:\Cursos\Aforo\MS.AFORO255\MS.AFORO255.Withdrawal\bin\Debug\net5.0\MS.AFORO255.
 D:\Cursos\Aforo\MS.AFORO255\MS.AFORO255.Withdrawal\bin\Debug\net5.0\MS.AFORO255.Withdrawal.dll
 D:\Cursos\Aforo\MS.AFORO255\MS.AFORO255.Withdrawal\bin\Debug\net5.0\ref\MS.AFORO255.Withdrawal.dll
 D:\Cursos\Aforo\MS.AFORO255\MS.AFORO255.Withdrawal\bin\Debug\net5.0\MS.AFORO255.Withdrawal.pdb
+D:\Cursos\Aforo\MS.AFORO255\MS.AFORO255.Withdrawal\bin\Debug\net5.0\Aforo255.Cross.Event.dll
+D:\Cursos\Aforo\MS.AFORO255\MS.AFORO255.Withdrawal\bin\Debug\net5.0\Aforo255.Cross.Http.dll
+D:\Cursos\Aforo\MS.AFORO255\MS.AFORO255.Withdrawal\bin\Debug\net5.0\MediatR.dll
+D:\Cursos\Aforo\MS.AFORO255\MS.AFORO255.Withdrawal\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
 D:\Cursos\Aforo\MS.AFORO255\MS.AFORO255.Withdrawal\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 D:\Cursos\Aforo\MS.AFORO255\MS.AFORO255.Withdrawal\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
 D:\Cursos\Aforo\MS.AFORO255\MS.AFORO255.Withdrawal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
@@ -55,8 +142,11 @@ D:\Cursos\Aforo\MS.AFORO255\MS.AFORO255.Withdrawal\bin\Debug\net5.0\Microsoft.Id
 D:\Cursos\Aforo\MS.AFORO255\MS.AFORO255.Withdrawal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
 D:\Cursos\Aforo\MS.AFORO255\MS.AFORO255.Withdrawal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 D:\Cursos\Aforo\MS.AFORO255\MS.AFORO255.Withdrawal\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Cursos\Aforo\MS.AFORO255\MS.AFORO255.Withdrawal\bin\Debug\net5.0\Newtonsoft.Json.dll
 D:\Cursos\Aforo\MS.AFORO255\MS.AFORO255.Withdrawal\bin\Debug\net5.0\Npgsql.dll
 D:\Cursos\Aforo\MS.AFORO255\MS.AFORO255.Withdrawal\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Cursos\Aforo\MS.AFORO255\MS.AFORO255.Withdrawal\bin\Debug\net5.0\Polly.dll
+D:\Cursos\Aforo\MS.AFORO255\MS.AFORO255.Withdrawal\bin\Debug\net5.0\RabbitMQ.Client.dll
 D:\Cursos\Aforo\MS.AFORO255\MS.AFORO255.Withdrawal\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
 D:\Cursos\Aforo\MS.AFORO255\MS.AFORO255.Withdrawal\obj\Debug\net5.0\MS.AFORO255.Withdrawal.csprojAssemblyReference.cache
 D:\Cursos\Aforo\MS.AFORO255\MS.AFORO255.Withdrawal\obj\Debug\net5.0\MS.AFORO255.Withdrawal.GeneratedMSBuildEditorConfig.editorconfig

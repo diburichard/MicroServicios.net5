@@ -1,5 +1,4 @@
-﻿
-using MS.AFORO255.Security.Models;
+﻿using MS.AFORO255.Security.Models;
 using System.Collections.Generic;
 
 namespace MS.AFORO255.Security.Services

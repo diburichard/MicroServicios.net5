@@ -1,5 +1,4 @@
-﻿
-using MS.AFORO255.Security.Models;
+﻿using MS.AFORO255.Security.Models;
 using MS.AFORO255.Security.Repositories;
 using System.Collections.Generic;
 using System.Linq;

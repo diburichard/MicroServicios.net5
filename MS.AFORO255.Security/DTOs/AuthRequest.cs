@@ -1,5 +1,4 @@
-﻿
-namespace MS.AFORO255.Security.DTOs
+﻿namespace MS.AFORO255.Security.DTOs
 {
     public class AuthRequest
     {

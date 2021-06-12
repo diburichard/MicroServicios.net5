@@ -1,5 +1,4 @@
-﻿
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
 using MS.AFORO255.Security.Models;
 
 namespace MS.AFORO255.Security.Repositories
